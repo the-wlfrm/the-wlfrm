@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/the-wlfrm/the-wlfrm/banner.jpg" width="25%" align="right" />
-  <a href="https://github.com/the-wlfrm"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2EB3&width=435&lines=Hello-hello;I'm+Niyaz%2C+backend-dev" alt="Typing SVG" /></a><br>
+  <img src="https://i.ibb.co/7JBmD4sH/banner.jpg" " width="25%" align="right" />
+  <a href="https://github.com/the-wlfrm"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=9739CF&center=true&multiline=true&width=435&lines=Hello-hello!;I'm+Niyaz%2C+backend+developer" alt="Typing SVG" /></a><br>
   <pre>
     💼 Back-end dev • API Architect & Integrator
     💻 Infrastructure • DevOps 
